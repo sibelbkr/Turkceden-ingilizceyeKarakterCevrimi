@@ -1,1 +1,1 @@
-# Turkceden-ngilizceyeKarakterCevrimi
+# Turkceden-ingilizceyeKarakterCevrimi
